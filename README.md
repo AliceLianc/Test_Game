@@ -1,1 +1,1 @@
-# Test_Game
+# Download .rar -> unarchive -> open "Test.exe"
